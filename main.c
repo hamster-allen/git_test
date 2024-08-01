@@ -9,11 +9,6 @@ int main(void)
     {
       printf("hi");
     }
-    else
-    {
-      printf("...");
-      printf("wait...");
-    }
   }
 }
 
